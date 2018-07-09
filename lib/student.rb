@@ -29,7 +29,7 @@ def save
   DB[:conn].execute(sql)
 end #create_table
  
- def self.create(name, )
+ def self.create(name:,grade:)
  
   # Remember, you can access your database connection anywhere in this class
   #  with DB[:conn]  
