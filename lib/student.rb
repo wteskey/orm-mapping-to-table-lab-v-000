@@ -17,7 +17,8 @@ def self.create_table
  
  SQL
  
- DB[:conn].execute
+ DB[:conn].execute(sql)
+ 
   
  
  
