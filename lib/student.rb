@@ -26,6 +26,7 @@ def save
   VALUES (?, ?)
   SQL
   
+  DB[:conn].execute(sql)
  
  
   # Remember, you can access your database connection anywhere in this class
