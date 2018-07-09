@@ -27,6 +27,8 @@ def save
   SQL
   
   DB[:conn].execute(sql)
+end #create_table
+ 
  
  
   # Remember, you can access your database connection anywhere in this class
