@@ -35,7 +35,7 @@ end #create_table
   student 
 end #create
 
-def 
+def self.drop_table
  
  
  
