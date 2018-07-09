@@ -30,7 +30,7 @@ def save
 end #create_table
  
  def self.create(name:,grade:)
-  student = student.new 
+  student = Student.new ()
  
  
  
