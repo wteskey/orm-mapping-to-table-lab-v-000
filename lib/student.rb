@@ -36,7 +36,7 @@ end #create_table
 end #create
 
 def self.drop_table
-  DB[:conn].exectue("DROP")
+  DB[:conn].exectue("DROP TABLE students")
  
  
  
