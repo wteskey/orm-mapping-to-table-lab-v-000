@@ -22,7 +22,7 @@ def self.create_table
  
 def save
   sql = <<-SQL
-  IN
+  INSERT INTO 
  
  
   # Remember, you can access your database connection anywhere in this class
