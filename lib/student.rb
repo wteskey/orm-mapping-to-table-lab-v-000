@@ -9,7 +9,8 @@ end #initialize
 
 def self.create_table
  sql = <<-SQL
- Create Table students
+ Create Table students (
+ )
   
  
  
