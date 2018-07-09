@@ -21,7 +21,7 @@ def self.create_table
  end #create_table
  
 def save
-  
+  sql
  
  
   # Remember, you can access your database connection anywhere in this class
