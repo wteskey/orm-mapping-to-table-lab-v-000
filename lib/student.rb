@@ -12,7 +12,7 @@ def self.create_table
  Create Table students (
  id Integer Primary Key
  name Text
- )
+ grade Integer)
   
  
  
