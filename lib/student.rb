@@ -11,6 +11,7 @@ def self.create_table
  sql = <<-SQL
  Create Table students (
  id Integer Primary Key
+ name Text
  )
   
  
