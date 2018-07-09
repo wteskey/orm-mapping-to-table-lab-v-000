@@ -9,7 +9,7 @@ end #initialize
 
 def self.create_table
  sql = <<-SQL
- Create Table students (
+ CREATE TABLE students (
  id Integer Primary Key
  name Text
  grade Integer
