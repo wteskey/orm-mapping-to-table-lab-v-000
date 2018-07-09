@@ -33,7 +33,9 @@ end #create_table
   student = Student.new (name, grade)
   student.save
   student 
-  
+end #create
+
+
  
  
  
