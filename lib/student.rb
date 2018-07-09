@@ -1,6 +1,6 @@
 class Student
 
-attr_accessor 
+attr_accessor :name 
   
   
   
