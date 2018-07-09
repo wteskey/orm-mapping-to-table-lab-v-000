@@ -10,7 +10,7 @@ end #initialize
 def self.create_table
  sql = <<-SQL
  Create Table students (
- id )
+ id Integer )
   
  
  
