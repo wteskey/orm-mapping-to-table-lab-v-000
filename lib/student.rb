@@ -14,6 +14,7 @@ def self.create_table
  name Text
  grade Integer
  )
+ 
   
  
  
