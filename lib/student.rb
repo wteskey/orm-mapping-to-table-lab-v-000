@@ -1,6 +1,7 @@
 class Student
 
-attr_accessor :name 
+attr_accessor :name, :grade
+
   
   
   
