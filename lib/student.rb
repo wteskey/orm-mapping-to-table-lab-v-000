@@ -30,7 +30,10 @@ def save
 end #create_table
  
  def self.create(name:,grade:)
-   
+  student = student.new 
+ 
+ 
+ 
  
   # Remember, you can access your database connection anywhere in this class
   #  with DB[:conn]  
