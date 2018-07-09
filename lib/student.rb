@@ -20,7 +20,8 @@ def self.create_table
  DB[:conn].execute(sql)
  end #create_table
  
-
+def save
+  
  
  
   # Remember, you can access your database connection anywhere in this class
