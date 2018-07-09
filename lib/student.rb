@@ -7,7 +7,7 @@ def initialize(name, grade)
   @name, @grade = name,grade
 end #initialize
 
-
+def self.
   
   # Remember, you can access your database connection anywhere in this class
   #  with DB[:conn]  
