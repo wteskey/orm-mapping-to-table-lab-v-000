@@ -16,6 +16,8 @@ def self.create_table
  )
  
  SQL
+ 
+ 
   
  
  
