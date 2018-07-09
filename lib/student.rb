@@ -8,7 +8,8 @@ def initialize(name, grade)
 end #initialize
 
 def self.create_table
- sql = <<-SQL 
+ sql = <<-SQL
+ 
   
  
  
